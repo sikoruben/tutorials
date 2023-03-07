@@ -3,5 +3,5 @@ public class Main {
         System.out.println("Hello world!");
     }
     //ez egy komment lol
-    //komment2
+    //komment2xD
 }
