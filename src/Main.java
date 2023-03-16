@@ -4,4 +4,5 @@ public class Main {
     }
     //ez egy komment lol
     //komment2xD
+    //kolozsvari commit
 }
